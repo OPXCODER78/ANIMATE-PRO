@@ -1,0 +1,5 @@
+{
+  "name": "AI Animation Coder",
+  "description": "An AI-powered assistant to generate HTML, Tailwind CSS, and JavaScript code for various web animations with live previews. Describe an animation, and the AI will provide multiple code variations.",
+  "requestFramePermissions": []
+}
